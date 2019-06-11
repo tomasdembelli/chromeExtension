@@ -1,0 +1,11 @@
+{
+    "name": "Last Tab",
+    "version": "0.1",
+    "description": "Highlight the las visited tab!",
+    "background": {
+        "scripts": ["background.js"],
+        "persistent": false
+      },
+    "permissions": ["tabs"],
+    "manifest_version": 2
+  }
